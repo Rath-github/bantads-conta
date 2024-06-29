@@ -1,5 +1,6 @@
 package com.ufpr.conta.account.command.services;
 
+import com.ufpr.conta.account.command.Repository.AccountCommandRepository;
 import com.ufpr.conta.account.command.services.AccountCommandService;
 import com.ufpr.conta.account.dto.AccountDto;
 import com.ufpr.conta.account.model.Account;
